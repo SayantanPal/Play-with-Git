@@ -1,1 +1,2 @@
 This I have created inside Local Master branch of working directory
+This is in new-branch-name
